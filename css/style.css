@@ -1,0 +1,25 @@
+div {
+  background-color: yellow;
+}
+
+.bg_gray {
+  background-color: gray;
+  color: white;
+}
+
+.bg_pink {
+  background-color: pink;
+}
+
+.bg_green {
+  background-color: green;
+  color: white;
+}
+
+.color_red {
+  color: red;
+}
+
+.text_black {
+  color: black;
+}
