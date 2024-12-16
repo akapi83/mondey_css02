@@ -43,3 +43,15 @@ div {
 .border_left {
   border-left: 3px solid yellowgreen;
 }
+
+.border_02 {
+  border-top: 3px solid black;
+  border-right: 10px solid red;
+  border-bottom: 5px dotted brown;
+  border-left: 4px solid blue;
+}
+
+.box_01 {
+  border: 1px solid black;
+  padding: 30px 10px 50px 20px;
+}
