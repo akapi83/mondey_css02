@@ -12,8 +12,8 @@ div {
 }
 
 .bg_green {
-  background-color: green;
-  color: white;
+  /* background-color: green; */
+  /* color: white; */
 }
 
 .color_red {
@@ -22,4 +22,24 @@ div {
 
 .text_black {
   color: black;
+}
+
+.border_01 {
+  border: 5px solid blue;
+}
+
+.border_top {
+  border-top: 3px solid red;
+}
+
+.border_bottom {
+  border-bottom: 4px solid green;
+}
+
+.border_right {
+  border-right: 10px solid purple;
+}
+
+.border_left {
+  border-left: 3px solid yellowgreen;
 }
